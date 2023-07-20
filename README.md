@@ -1,4 +1,4 @@
-**Sign Language Detector**
+<h1>**Sign Language Detector**</h1>
 
 Project made using python ,openCV and mediapipe
 
